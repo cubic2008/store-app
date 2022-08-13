@@ -1,1 +1,3 @@
 Royal Gala		    1.99
+Red Delicious  1.89 
+Golden Delicious  2.09 
