@@ -2,3 +2,4 @@ Fruits
 Backery 
 Deli 
 Dessert 
+Frozen meat 
