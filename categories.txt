@@ -1,4 +1,5 @@
-Fruits
+Fresh Fruits
 Backery 
-Deli 
+Deli - Meat
 Dessert 
+Produces
